@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:white
+    
+}
+.header{
+    height:100px;
+
+    .title{
+        font-size: xx-large;
+        font-weight: bolder;
+        
+    }
+    .About{
+        font-weight: bold;
+        font-size: medium;
+        
+    }
+    
+}
+.title{
+        font-size: large;
+        font-weight: bolder;
+
+.Experience{
+    
+    
+    .body{
+        ul{
+             
+        }
+    }
+}
+}
+
+.Contact{
+    display: inline-flex;
+
+    ul{
+        list-style-type: none;
+        
+    }
+
+}
