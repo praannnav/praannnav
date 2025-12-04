@@ -3,7 +3,7 @@ body{
     color: white;
 }
 .header{
-    /* text-align: center; */
+    text-align: center;
     margin-top: 7.5vh;
     margin-left: 12vw;
 
@@ -53,4 +53,5 @@ a:hover{
 }
 #owner:hover{
     color: darkorange;
+
 }
